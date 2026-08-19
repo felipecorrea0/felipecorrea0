@@ -32,7 +32,7 @@ Abaixo estão alguns sistemas desenvolvidos para resolver dores reais de adminis
 
 > 💡 **Nota Importante:** Os projetos listados abaixo são **Protótipos de Demonstração (MVPs)**. Eles foram desenvolvidos como vitrines para ilustrar minhas habilidades técnicas e visão de negócios. Por serem provas de conceito públicas, podem passar por manutenções e não possuem todas as travas de um sistema finalizado. **Eles não representam o limite do que eu sei construir, mas sim um ponto de partida.** Tudo o que você ver aqui pode ser 100% moldado, aprimorado e expandido exclusivamente para as regras e necessidades da sua empresa.
 
-### 1. [LeadFlow CRM B2B]([./LeadFlow-CRM-B2B](https://github.com/felipecorrea0/LeadFlow-CRM-B2B))
+### 1. [LeadFlow CRM B2B](https://github.com/felipecorrea0/LeadFlow-CRM-B2B)
 Sistema de gestão de clientes (Pipeline/Kanban) que impede sua equipe comercial de esquecer orçamentos. Conta com cálculo de receita em tempo real e atalhos de contato direto.
 
 ### 2. [StockGuard ERP](./StockGuard-ERP)
