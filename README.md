@@ -53,4 +53,4 @@ Escolha a rede social de sua preferência para conversarmos:
 
 *   📱 **WhatsApp:** [Clique aqui para me mandar uma mensagem](https://wa.me/+5569992804038)
 *   📸 **Instagram:** [@fc4code](https://instagram.com/fc4code)
-*   📧 **Email:** [seu-email@dominio.com](mailto:felipecorrea0210x@gmail.com)
+*   📧 **Email:** [seu-email@dominio.com](mailto:fepecode@gmail.com)
