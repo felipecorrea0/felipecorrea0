@@ -1,48 +1,57 @@
 # Olá, eu sou o Felipe Corrêa 👋
 
-**Desenvolvedor de Software Focado em Soluções Corporativas & Automação B2B**
+**Desenvolvedor de Software | Automação, Sistemas Corporativos & Soluções sob Medida**
 
-Se você chegou até aqui, provavelmente está buscando modernizar a sua empresa, automatizar processos lentos ou escalar suas vendas através da tecnologia. Meu trabalho é exatamente este: **transformar gargalos empresariais em sistemas web rápidos, seguros e eficientes.**
+Se você chegou até aqui, provavelmente está buscando modernizar a sua empresa, automatizar processos lentos ou transformar uma ideia inovadora em realidade através da tecnologia. Meu trabalho é exatamente este: **resolver problemas reais com engenharia de software rápida e eficiente.**
 
-Atualmente, dedico minha engenharia à construção de softwares para empresas físicas e digitais. Em breve, estarei expandindo essa operação junto aos meus sócios através da nossa própria Software House, a **NodeCloud Solutions**, focada em infraestrutura e inteligência para negócios.
+Em breve, estarei expandindo essa operação junto aos meus sócios através da nossa própria Software House, a **NodeCloud Solutions**, focada em infraestrutura e inteligência para negócios.
 
 ---
 
-## 🚀 Como eu posso ajudar o seu negócio?
+## 🚀 O que eu construo?
 
-Diferente de desenvolvedores tradicionais, minha abordagem é orientada a resultados financeiros e operacionais. Eu utilizo a **Inteligência Artificial** não apenas como conceito, mas como uma ferramenta ativa no meu fluxo de trabalho. Isso me permite:
-*   **Arquitetar e programar sistemas complexos em tempo recorde.**
-*   **Automatizar tarefas repetitivas**, reduzindo o custo operacional do desenvolvimento.
-*   **Garantir código limpo, seguro e com as melhores práticas de mercado**, entregando um produto final superior e escalável.
+Diferente de desenvolvedores tradicionais, minha abordagem é orientada a resultados operacionais. Utilizo a **Inteligência Artificial** não apenas como conceito, mas como uma ferramenta ativa no meu fluxo de trabalho para entregar sistemas de ponta em tempo recorde e com alta qualidade de código.
 
-## 💻 Stack Tecnológica & Especialidades
+**Meu foco principal engloba, mas não se limita a:**
+*   **Sistemas Corporativos (B2B):** CRMs, Painéis ERP e soluções logísticas para empresas físicas e digitais.
+*   **Solções Sob Medida:** Desde landing pages de alta conversão até bots utilitários complexos e arquiteturas de servidores personalizados. Se o seu projeto envolve lógica estruturada, nós podemos desenvolvê-lo.
+*   **Automação & Integração:** Conectar ferramentas e eliminar tarefas repetitivas do seu dia a dia.
 
-Minha base de desenvolvimento é moderna e focada em performance web:
+## 💻 Stack Tecnológica
+
+Minha base de desenvolvimento é moderna e focada em performance:
 *   **Back-end & Lógica:** Node.js, JavaScript, TypeScript.
-*   **Front-end & Interfaces:** Desenvolvimento Web dinâmico e responsivo (Sites e Dashboards).
-*   **Arquitetura de Dados:** Modelagem e gestão de Bancos de Dados relacionais (MySQL/PostgreSQL) garantindo a integridade e segurança do seu patrimônio digital.
+*   **Arquitetura de Dados:** MySQL/PostgreSQL para garantir a integridade e segurança do seu patrimônio digital.
+*   **Front-end & Interfaces:** Sites responsivos, rápidos e focados em experiência do usuário (UX) e conversão.
 
 ---
 
 ## 🏢 Portfólio de Impacto
 
-Abaixo estão alguns dos sistemas que desenvolvi, desenhados para resolver dores reais de administração, vendas e logística. *Clique nos repositórios para testar as demonstrações.*
+Abaixo estão alguns sistemas desenvolvidos para resolver dores reais de administração e vendas. *Clique nos repositórios para testar as demonstrações.*
+
+> 💡 **Nota Importante:** Os projetos listados abaixo são **Protótipos de Demonstração (MVPs)**. Eles foram desenvolvidos como vitrines para ilustrar minhas habilidades técnicas e visão de negócios. Por serem provas de conceito públicas, podem passar por manutenções e não possuem todas as travas de um sistema finalizado. **Eles não representam o limite do que eu sei construir, mas sim um ponto de partida.** Tudo o que você ver aqui pode ser 100% moldado, aprimorado e expandido exclusivamente para as regras e necessidades da sua empresa.
 
 ### 1. [LeadFlow CRM B2B](./LeadFlow-CRM-B2B)
-Um sistema de gestão de clientes (Pipeline/Kanban) que impede sua equipe comercial de esquecer orçamentos e perder vendas. Conta com cálculo de receita em tempo real e atalhos de contato direto.
+Sistema de gestão de clientes (Pipeline/Kanban) que impede sua equipe comercial de esquecer orçamentos. Conta com cálculo de receita em tempo real e atalhos de contato direto.
 
 ### 2. [StockGuard ERP](./StockGuard-ERP)
-Painel logístico focado em estancar perdas financeiras. Possui controle de estoque inteligente, alertas de ruptura de produtos e um rigoroso log de auditoria operacional.
+Painel logístico focado em estancar perdas financeiras. Possui controle de estoque inteligente, alertas de ruptura e um rigoroso log de auditoria operacional.
 
 ### 3. [SmartProposal SaaS](./SmartProposal-SaaS)
-Gerador de orçamentos dinâmicos. Transforma orçamentos amadores enviados no WhatsApp em links rastreáveis e PDFs profissionais, aumentando instantaneamente a autoridade da sua marca perante o cliente.
+Gerador de orçamentos dinâmicos. Transforma orçamentos amadores enviados no WhatsApp em links rastreáveis e PDFs profissionais, aumentando a autoridade da marca.
 
 ---
 
-## 🤝 Vamos conversar sobre a sua empresa?
+## 🤝 Vamos transformar sua ideia em realidade?
 
-Se você possui um gargalo operacional ou quer escalar sua operação com tecnologia sólida, estou aberto a parcerias e projetos.
+Cada negócio e cada cliente tem uma necessidade única. **Não hesite em me chamar no privado!** 
 
-*   📧 **Email:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
+Podemos bater um papo sem compromisso para entender exatamente o que você quer construir, desenhar a melhor solução técnica e verificar a disponibilidade na minha agenda para iniciarmos o projeto.
+
+Escolha a rede social de sua preferência para conversarmos:
+
+*   📱 **WhatsApp:** [Clique aqui para me mandar uma mensagem](#)
+*   📸 **Instagram:** [@seu-instagram](https://instagram.com/seu-instagram)
 *   💼 **LinkedIn:** [linkedin.com/in/seu-perfil](#)
-*   📱 **WhatsApp:** [Clique aqui para conversarmos](#)
+*   📧 **Email:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
