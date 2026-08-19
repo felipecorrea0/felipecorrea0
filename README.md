@@ -35,10 +35,10 @@ Abaixo estão alguns sistemas desenvolvidos para resolver dores reais de adminis
 ### 1. [LeadFlow CRM B2B](https://github.com/felipecorrea0/LeadFlow-CRM-B2B)
 Sistema de gestão de clientes (Pipeline/Kanban) que impede sua equipe comercial de esquecer orçamentos. Conta com cálculo de receita em tempo real e atalhos de contato direto.
 
-### 2. [StockGuard ERP](./StockGuard-ERP)
+### 2. [StockGuard ERP](https://github.com/felipecorrea0/StockGuard-ERP)
 Painel logístico focado em estancar perdas financeiras. Possui controle de estoque inteligente, alertas de ruptura e um rigoroso log de auditoria operacional.
 
-### 3. [SmartProposal SaaS](./SmartProposal-SaaS)
+### 3. [SmartProposal SaaS](https://github.com/felipecorrea0/SmartProposal-SaaS)
 Gerador de orçamentos dinâmicos. Transforma orçamentos amadores enviados no WhatsApp em links rastreáveis e PDFs profissionais, aumentando a autoridade da marca.
 
 ---
@@ -51,7 +51,7 @@ Podemos bater um papo sem compromisso para entender exatamente o que você quer 
 
 Escolha a rede social de sua preferência para conversarmos:
 
-*   📱 **WhatsApp:** [Clique aqui para me mandar uma mensagem](#)
-*   📸 **Instagram:** [@seu-instagram](https://instagram.com/seu-instagram)
-*   💼 **LinkedIn:** [linkedin.com/in/seu-perfil](#)
-*   📧 **Email:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
+*   📱 **WhatsApp:** [Clique aqui para me mandar uma mensagem](#69992804038)
+*   📸 **Instagram:** [@seu-instagram](https://instagram.com/fc4code)
+*   💼 **LinkedIn:** [linkedin.com/in/seu-perfil](#https://www.linkedin.com/in/felipe-corr%C3%AAa-7712b23b5/)
+*   📧 **Email:** [seu-email@dominio.com](mailto:felipecorrea0210x@gmail.com)
