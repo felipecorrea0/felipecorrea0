@@ -51,7 +51,7 @@ Podemos bater um papo sem compromisso para entender exatamente o que você quer 
 
 Escolha a rede social de sua preferência para conversarmos:
 
-*   📱 **WhatsApp:** [Clique aqui para me mandar uma mensagem](69992804038)
+*   📱 **WhatsApp:** [Clique aqui para me mandar uma mensagem](https://wa.me/+5569992804038)
 *   📸 **Instagram:** [@fc4code](https://instagram.com/fc4code)
 *   💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/felipe-corr%C3%AAa-7712b23b5/)
 *   📧 **Email:** [seu-email@dominio.com](mailto:felipecorrea0210x@gmail.com)
