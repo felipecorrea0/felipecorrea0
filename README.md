@@ -52,5 +52,5 @@ Podemos bater um papo sem compromisso para entender exatamente o que você quer 
 Escolha a rede social de sua preferência para conversarmos:
 
 *   📱 **WhatsApp:** [Clique aqui para me mandar uma mensagem](https://wa.me/+5569992804038)
-*   📸 **Instagram:** [@fc4code](https://instagram.com/fc4code)
-*   📧 **Email:** [seu-email@dominio.com](mailto:fepecode@gmail.com)
+*   📸 **Instagram:** [@felipecorrea.0](https://instagram.com/felipecorrea.0)
+*   📧 **Email:** [fepecode@gmail.com](mailto:fepecode@gmail.com)
